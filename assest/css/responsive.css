@@ -1,0 +1,228 @@
+/* medium layout scrren:1280px */
+@media only screen and (min-width: 992px) and (max-width: 1280px) {
+	header .menu-area nav ul li a {
+    padding: 7px 10px;
+    letter-spacing: 2px;
+}
+.services .sr-full-box .sr-box h3 {
+    font-size: 20px;
+}
+.contact-area .contact-bg {
+    width: 58%;
+}
+}
+/* tablet layout screen: 768px */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    header .menu-area nav ul li a {
+    padding: 7px 0px;
+    letter-spacing: 0px;
+}
+	span.name{
+				font-size: 36px !important;
+			}
+.contact-area .con-title h2 {
+    font-size: 30px;}
+    .contact-area .con-title p {
+    font-size: 16px;}
+    .contact-area .side-con-details p {
+    font-size: 12px;
+}
+.contact-area .contact-bg {
+    width: 57%;
+}
+header .header-title h2 {
+    font-size: 37px;
+}
+.services .sr-full-box .sr-box i {
+    font-size: 50px;}
+    .services .sr-full-box .sr-box h3 {
+    font-size: 20px;}
+    .services .sr-full-box .sr-box p {
+    font-size: 15px;}
+    .project-area .pro-box h2 {
+    font-size: 30px;
+}
+.project-area .pro-box h3 {
+    font-size: 22px;
+}
+.about-area .ab-details h3 {
+    font-size: 22px;
+	}
+	.education .edu-box p {
+    font-size: 14px;
+}
+.education .edu-box h2 {
+    font-size: 25px;
+}
+
+}
+/* mobile layout screen */
+@media only screen and (min-width: 540px) and (max-width: 767px){
+	.slicknav_menu {
+    display:block;
+}.menu-area{
+			display: none;
+		}
+	span.name{
+				font-size: 34px !important;
+			}
+	.contact-area .contact-bg {
+    width: 100%;
+    height: 58%;
+}
+	.about-area .img-box {
+    width: 150px;
+    height: 150px;
+}
+	nav.fixed {
+	    display: none !important;
+	}
+	
+	header .header-title h2 {
+    font-size: 35px;
+    margin-top: 20px;
+}
+	
+	header .header-title .title-animi p {
+	    font-size: 17px;
+	}
+	header .header-title a {
+	    font-size: 17px;
+	}
+	.services .services-title h2 {
+    font-size: 30px;
+	}
+
+	.services .services-title p {
+	    font-size: 15px;
+	}
+	.services .sr-full-box .sr-box h3 {
+    font-size: 20px;}
+    .services .sr-full-box .sr-box p {
+    font-size: 15px;
+}
+.project-area .pro-box h2 {
+    font-size: 22px;
+}
+.project-area .pro-box h3 {
+    font-size: 18px;
+}
+.project-area .pro-box p {
+     font-size: 14px;
+}.project-area .pro-box p {
+    font-size: 14px;
+}
+.fixed-icon {
+    padding: 8px;
+    top: 10%;
+    right: 20px;
+}
+}
+/* wide mobile layout screen: 480px */
+@media only screen and (max-width: 539px) {
+	.slicknav_menu {
+    display:block;
+}
+.menu-area{
+			display: none;
+		}
+		ul.slicknav_nav{
+			z-index: 1;
+    		top: 40px;
+    		background: #1D1D1D;
+}
+	.about-area .img-box {
+    width: 150px;
+    height: 150px;
+}
+.fixed-icon {
+    padding: 8px;
+    top: 10%;
+    right: 8px;
+}
+span.name{
+				font-size: 29px !important;
+			}
+.education .edu-title h2 {
+    font-size: 25px;}
+    .education .edu-title p {
+    font-size: 15px;}
+    .about-area .about-title h2 {
+    font-size: 30px;}
+    .about-area .about-title p {
+    font-size: 15px;}
+    .project-area .pro-box h2 {
+    letter-spacing: 0px;
+    font-size: 26px;}
+    .project-area .pro-box h3 {
+    font-size: 20px;
+}
+.box1 h3 {
+    font-size: 20px;
+}
+.skill-area .skill-title h2 {
+    font-size: 30px;}
+    .skill-area .skill-title p {
+    font-size: 16px;}
+.project-area .project-title p {
+    font-size: 16px;}
+.project-area .pro-box p {
+    font-size: 14px;
+}
+.project-area .project-title h2 {
+    font-size: 30px;}
+.contact-area .contact-bg {
+    width: 100%;
+    height: 60%;
+}
+.contact-area form input[type=text] {
+    width: 97%;
+}
+    .contact-area form input[type=email] {
+    width: 97%;
+    margin-top: 10px;
+}
+
+
+.contact-area form input[type=submit] {
+    padding: 10px 40px;
+    font-size: 20px;
+}
+.contact-area .side-con-details p {
+    font-size: 13px;
+}
+.contact-area {
+    padding: 10px 0px;
+}
+.contact-area .con-title h2 {
+    font-size: 30px;}
+.education .edu-box p {
+    font-size: 15px;}
+    .education .edu-box h3 {
+    font-size: 20px;}
+    .education .edu-box h2 {
+    font-size: 25px;
+}
+		
+	nav.fixed {
+	    display: none !important;
+		}
+	
+	header .header-title h2 {
+    	margin-top: 10px;
+    font-size: 30px;
+	}
+	
+	header .header-title .title-animi p {
+    letter-spacing: 0px;
+    font-size: 19px;
+}header .header-title a {
+    font-size: 18px;
+    padding: 10px 25px;
+    letter-spacing: 2px;
+    border-radius: 5px 30px;
+    }
+	.services .services-title h2 {
+    font-size: 30px;
+	}
+}
